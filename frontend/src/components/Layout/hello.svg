@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="ADLaM Display">@import url(https://fonts.googleapis.com/css2?family=ADLaM+Display%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgb(232, 126, 100); font-family: 'Roboto'; font-size: 21px; white-space: pre;" x="187.806" y="199.295">GrowLocal</text>
+  <!-- <path d="M 244.368 192.553 m -78.022 0 a 78.022 39.13 0 1 0 156.044 0 a 78.022 39.13 0 1 0 -156.044 0 Z M 244.368 192.553 m -64.964 0 a 64.964 32.581 0 0 1 129.928 0 a 64.964 32.581 0 0 1 -129.928 0 Z" style="fill: rgb(216, 216, 216); stroke-linecap: square; stroke-linejoin: round; stroke: rgb(114, 126, 191);" bx:shape="ring 244.368 192.553 64.964 32.581 78.022 39.13 1@969a352c"/> -->
+</svg>
